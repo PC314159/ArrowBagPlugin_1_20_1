@@ -1,0 +1,4 @@
+name: ArrowBagPlugin_1_20_1
+version: '${version}'
+main: io.github.pc314159.arrowbagplugin_1_20_1.ArrowBagPlugin_1_20_1
+api-version: '1.20'
